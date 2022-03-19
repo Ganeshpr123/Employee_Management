@@ -18,6 +18,8 @@ public class login3 extends javax.swing.JFrame {
      */
     public login3() {
         initComponents();
+        
+        
         err.setVisible(false);
     }
 
